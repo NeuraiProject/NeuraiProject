@@ -1,2 +1,2 @@
 ## NEURAI PROJECT
-![](images/neurai-title.jpg)
+![](images/neurai-header.jpg)
